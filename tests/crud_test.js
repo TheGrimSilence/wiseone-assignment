@@ -1,6 +1,7 @@
 Feature('crud');
 
-Scenario('test something', (I) => {
+Scenario('can log in', (I) => {
+	I.amOnPage('/');
 	// Tap the login button
 	I.click('Login');
 	// Fill the Username
