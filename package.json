@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "codeceptjs": "^2.6.11",
+    "dummy-json": "^3.0.1",
     "puppeteer": "^5.3.1"
   }
 }
